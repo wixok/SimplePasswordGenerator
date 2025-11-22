@@ -1,0 +1,5 @@
+# Ignore IDE directories
+/.idea/
+/venv/
+__pycache__/
+__pycache__
